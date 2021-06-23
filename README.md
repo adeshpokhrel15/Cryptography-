@@ -28,7 +28,7 @@ It is a system that generates a randomly organized and unique ‘private key’;
 ### Encryption
 To encrypt a letter, a user needs to write a key underneath the plaintext. The plaintext letter is placed on the top and the key letter on the left. The cross section achieved between two letters is the plain text.
 
-### decryption 
+### Decryption 
 To decrypt a letter, user takes the key letter on the left and finds cipher text letter in that row. The plain text letter is placed at the top of the column where the user can find the cipher text letter.
 
 
